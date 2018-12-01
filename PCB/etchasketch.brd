@@ -920,11 +920,9 @@ design rules under a new name.</description>
 <wire x1="101.595" y1="45.405" x2="95" y2="38.81" width="1" layer="16"/>
 <wire x1="95" y1="38.81" x2="95" y2="12" width="1" layer="16"/>
 <wire x1="79.5" y1="6.5" x2="74" y2="12" width="1" layer="16"/>
-<wire x1="66" y1="50" x2="64" y2="50" width="1" layer="16"/>
-<wire x1="64" y1="50" x2="62.05" y2="51.95" width="1" layer="16"/>
-<wire x1="62.05" y1="51.95" x2="62.05" y2="57.13" width="1" layer="16"/>
+<wire x1="62.05" y1="53.95" x2="62.05" y2="57.13" width="1" layer="16"/>
 <wire x1="74" y1="12" x2="74" y2="42" width="1" layer="16"/>
-<wire x1="74" y1="42" x2="66" y2="50" width="1" layer="16"/>
+<wire x1="74" y1="42" x2="62.05" y2="53.95" width="1" layer="16"/>
 <wire x1="103.75" y1="43.5" x2="103.5" y2="43.5" width="1" layer="16"/>
 <wire x1="103.5" y1="43.5" x2="101.595" y2="45.405" width="1" layer="16"/>
 </signal>
