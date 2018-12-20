@@ -7,5 +7,3 @@ ELEC 344 Final Project Files
 
 ![Annotated](https://i.imgur.com/I8Jbyin.jpg)
 
-![Annotated](https://i.imgur.com/NYEcIKf.gifv)
-
