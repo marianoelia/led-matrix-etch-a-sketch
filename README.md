@@ -4,3 +4,8 @@ The idea of this project was to make an etch a sketch using a 8x8 led matrix, 2 
 ELEC 344 Final Project Files
 
 ![Drawing](https://i.imgur.com/qu3H2nD.png)
+
+![Annotated](https://i.imgur.com/I8Jbyin.jpg)
+
+![Annotated](https://i.imgur.com/NYEcIKf.gifv)
+
