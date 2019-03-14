@@ -10,7 +10,7 @@ Arduino Uno <br>
 ADXL335 Sparkfun Accelerometer Breakout Board <br>
 Pre-sensitized Copper Board as the PCB <br>
 
-<br>
+
 ![Drawing](https://i.imgur.com/qu3H2nD.png)
 
 ![Annotated](https://i.imgur.com/I8Jbyin.jpg)
